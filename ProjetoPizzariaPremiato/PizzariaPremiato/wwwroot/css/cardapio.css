@@ -1,0 +1,24 @@
+.container-fluid {
+    background-color: bisque;
+}
+
+span {
+    color: red;
+    font-size: 30px;
+}
+
+.fotoCardapio {
+    height: 500px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+    .fotoCardapio p {
+        padding: 10px;
+    }
+
+.imgCardapio {
+    width: 300px;
+    height: 300px;
+    border: #ffc506 solid 2px;
+}

@@ -1,0 +1,20 @@
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.deps.json
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.csproj.AssemblyReference.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.AssemblyInfoInputs.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.AssemblyInfo.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.csproj.CoreCompileInputs.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.deps.json
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.csproj.AssemblyReference.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.AssemblyInfoInputs.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.AssemblyInfo.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.csproj.CoreCompileInputs.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiatoUtils\obj\Debug\netcoreapp2.1\PizzariaPremiatoUtils.pdb

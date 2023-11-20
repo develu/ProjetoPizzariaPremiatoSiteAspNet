@@ -1,0 +1,125 @@
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.deps.json
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.runtimeconfig.json
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.runtimeconfig.dev.json
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.dll
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.pdb
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.Views.dll
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.Views.pdb
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.AssemblyReference.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.AssemblyInfoInputs.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.AssemblyInfo.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.CoreCompileInputs.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorAssemblyInfo.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorAssemblyInfo.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.TagHelpers.input.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.TagHelpers.output.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorCoreGenerate.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Cardapio\Index.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutAdmin.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\SobreNos\Index.cshtml.g.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorTargetAssemblyInfo.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorTargetAssemblyInfo.cs
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.Views.pdb
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.dll
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.pdb
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.genruntimeconfig.cache
+C:\Users\velu_\OneDrive\Área de Trabalho\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.CopyComplete
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.AssemblyReference.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.GeneratedMSBuildEditorConfig.editorconfig
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.AssemblyInfoInputs.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.AssemblyInfo.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.CoreCompileInputs.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorAssemblyInfo.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorAssemblyInfo.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.TagHelpers.input.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.TagHelpers.output.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorCoreGenerate.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.deps.json
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.runtimeconfig.json
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.runtimeconfig.dev.json
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.Views.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.Views.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoDTO.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoInjecao.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoRepositorio.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoServicos.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.dll
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoInjecao.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoServicos.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoDTO.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoRepositorio.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Login.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Cardapio\Index.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Contato\Index.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Index.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutAdmin.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\SobreNos\Index.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorTargetAssemblyInfo.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorTargetAssemblyInfo.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.Views.pdb
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.CopyComplete
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.genruntimeconfig.cache
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Cadastrar.cshtml.g.cs
+C:\iugstruct\projects\develu\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Editar.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.deps.json
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.runtimeconfig.json
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.runtimeconfig.dev.json
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.Views.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiato.Views.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoDTO.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoInjecao.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoRepositorio.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoServicos.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoInjecao.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoServicos.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoUtils.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoDTO.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\bin\Debug\netcoreapp2.1\PizzariaPremiatoRepositorio.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.AssemblyReference.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.AssemblyInfoInputs.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.AssemblyInfo.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.CoreCompileInputs.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorAssemblyInfo.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorAssemblyInfo.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.TagHelpers.input.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.TagHelpers.output.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorCoreGenerate.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Login.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Cardapio\Index.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Contato\Index.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Cadastrar.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Editar.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Index.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutAdmin.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\Razor\Views\SobreNos\Index.cshtml.g.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorTargetAssemblyInfo.cache
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.RazorTargetAssemblyInfo.cs
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.Views.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.csproj.CopyComplete
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.dll
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.pdb
+C:\dev\Projetos\C# em Desenvolvimento\ProjetoPizzariaPremiato\ProjetoPizzariaPremiato\PizzariaPremiato\obj\Debug\netcoreapp2.1\PizzariaPremiato.genruntimeconfig.cache

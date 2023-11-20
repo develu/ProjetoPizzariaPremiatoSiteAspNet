@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/css/contato.css" rel="stylesheet" />
+<h1 id="id_titulo">Formulário de Contato</h1>
+
+<div class="conteudo">
+    <!--CONTEÚDO DA PÁGINA-->
+
+    <div class="row">
+
+        <div class="col-lg-6 col-sm-12">
+            <form method="post" action="/contato/recebercontato">
+
+                <p>
+                    <label for="nome">Nome</label><br>
+                    <input type="text" name="nome" value="@ViewBag.Contato.Nome" id="id_nome" placeholder="Digite o seu nome" maxlength="33">
+                    @Html.ValidationMessage("nome")
+                </p>
+
+
+                <p>
+                    <label for="telefone">Telefone</label><br>
+                    <input type="text" name="telefone" value="@ViewBag.Contato.Telefone" id="id_telefone" placeholder="Digite o seu telefone">
+                    @Html.ValidationMessage("telefone")
+                </p>
+
+                <p>
+                    <label for="email">E-mail</label><br>
+                    <input type="text" name="email" value="@ViewBag.Contato.Email" id="id_email" placeholder="Digite o seu e-mail">
+                    @Html.ValidationMessage("email")
+                </p>
+                <label for="mensagem">Mensagem</label><br>
+                <textarea name="mensagem" value="@ViewBag.Contato.Nome" id="id_mensagem" cols="30" rows="10" placeholder="Digite sua mensagem"></textarea>
+                @Html.ValidationMessage("mensagem")
+                <br>
+
+                <button type="submit" id="id_enviar">Enviar</button>
+
+
+            </form>
+
+        </div>
+        <div class="col-lg-6 col-sm-12">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.887702619049!2d-46.515313723702555!3d-23.64419236464243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6826e84c76b5%3A0x38d22b382674049a!2sPizzaria%20da%20Mama!5e0!3m2!1spt-BR!2sbr!4v1688151047382!5m2!1spt-BR!2sbr" width="600" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+    @ViewBag.Mensagem
+</div>
+
+

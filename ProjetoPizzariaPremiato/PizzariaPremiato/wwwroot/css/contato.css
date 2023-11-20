@@ -1,0 +1,45 @@
+.container-fluid {
+    background-color: bisque;
+}
+#id_senha,
+#id_nome,
+#id_telefone,
+#id_email {
+    width: 450px;
+    margin: 10px 0;
+    height: 35px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+}
+h1{
+    color:red ;
+}
+
+#id_mensagem {
+    width: 450px;
+    margin: 10px 0;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#id_enviar {
+    width: 450px;
+    margin: 10px 0;
+    height: 35px;
+    background-color: red;
+    color: var(--white);
+    border: 0;
+    border-radius: 4px;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+

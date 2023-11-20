@@ -1,0 +1,132 @@
+﻿@model PizzariaPremiato.Models.PizzaModel
+@using PizzariaPremiato.Models
+
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+@{List<CategoriaModel> lstCategoria = (List<CategoriaModel>)TempData["lstCategoria"];}
+
+<h2 class="text-center">Editar</h2>
+
+<h4 class="text-center text-primary">Pizzas</h4>
+<hr />
+<div class="row">
+    <div class="col-md-10 offset-md-1">
+        <form method="post" enctype="multipart/form-data" asp-controller="Pizza" asp-action="Editar">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" name="Id" value="@Model.Id" />
+
+            <input type="hidden" id="id_update_foto" name="UpdateFoto" value="false" />
+
+            <div class="form-group mb-2">
+                <label asp-for="Nome" class="control-label" style="font-weight:bold;">Nome</label>
+                <input name="Nome" class="form-control" value="@Model.Nome" />
+                @Html.ValidationMessage("Nome", new { @class = "text-danger" })
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="Descricao" class="control-label" style="font-weight:bold;">Descrição</label>
+                <input name="descricao" class="form-control" value="@Model.Descricao" />
+                @Html.ValidationMessage("Descricao", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-2">
+                <label asp-for="CategoriaId" class="control-label" style="font-weight:bold;">Seleciona uma Categoria</label>
+
+                <select name="CategoriaId" class="form-control">
+                    @foreach (var c in lstCategoria)
+                    {
+
+                        <option value="@c.Id" @(Model.Categoria.Id == c.Id ? "selected" : "" )>@c.Nome</option>
+
+                    }
+                </select>
+                <span asp-validation-for="CategoriaId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-2">
+                <label asp-for="Valor" class="control-label" style="font-weight:bold;">Valor</label>
+                <input name="Valor" class="form-control" value="@Model.Valor" />
+                @Html.ValidationMessage("Valor", new { @class = "text-danger" })
+            </div>
+
+            <hr />
+            <div class="form-group mb-2">
+                <label class="control-label" style="font-weight:bold;">Foto Atual</label><br />
+                <img alt="@Model.Nome - @Model.Descricao" style="height: 40px; width: 40px; border-radius:50px; cursor:pointer;" src="@Model.Foto" onclick="abrirModal('@Model.Foto', '@Model.Nome' )" />
+            </div>
+
+
+            <br />
+            <a class="btn btn-warning" onclick="alterarFoto();">Alterar Foto?</a>
+
+
+            <div id="id_alterar_foto" style="display:none;">
+
+                <br />
+                <br />
+
+                <div class="form-group mb-2">
+                    <label asp-for="Foto" class="control-label" style="font-weight:bold;">Foto</label>
+
+                    <input type="file" name="Foto" />
+
+                    @Html.ValidationMessage("Foto", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+            <hr />
+            <div class="form-group float-end">
+
+                <div class="d-grid gap-2">
+                    <input type="submit" value="Atualizar" class="btn btn-primary btn-block" />
+                    <a href="@Url.Action("Index", "Pizza" )" class="btn btn-outline-warning btn-block">Voltar</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="modal" tabindex="-1" role="dialog" id="id_modal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content ">
+            <div class="modal-header">
+                <h5 class="modal-title text-success" id="id_modal_titulo"></h5>
+                <button type="button" class="close" onclick="fecharModal();">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="id_modal_img" src="" style="max-width: 450px;  max-height:450px;" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    const alterarFoto = () => {
+        document.getElementById("id_alterar_foto").style.display = "block";
+        document.getElementById("id_update_foto").value = true;
+    }
+
+    const modalItem = document.getElementById("id_modal");
+    const imgModal = document.getElementById("id_modal_img");
+    const tituloModal = document.getElementById("id_modal_titulo");
+
+    const abrirModal = (foto, nome) => {
+
+        modalItem.style.display = "block"
+        imgModal.src = foto;
+        tituloModal.innerHTML = nome;
+    }
+
+    const fecharModal = () => {
+        modalItem.style.display = "none"
+        imgModal.src = "";
+        tituloModal.innerHTML = "";
+    }
+</script>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "aw4NfRWz4L3xo5diR2Fr1kHurd5NGEIFpxzPcTWkMJig2zxWodGjOFTxJT9X++NB4MUa/X3SU4wh4VWfaylyDg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Projetos\\C# em Desenvolvimento\\ProjetoPizzariaPremiato\\ProjetoPizzariaPremiato\\PizzariaPremiatoDTO\\PizzariaPremiatoDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\velu_\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\velu_\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\velu_\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\velu_\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\velu_\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\velu_\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\velu_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

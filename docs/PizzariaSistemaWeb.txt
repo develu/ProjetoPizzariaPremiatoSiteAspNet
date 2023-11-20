@@ -1,0 +1,14 @@
+Criar novo site com o asp.net projeto web
+
+1) Passar o site pro c# (layout, routas(usando url.action), controller, views)
+
+2) Criar a área administrativa (área logada) filtro, tela de login, view que só pode acessar depois de logar
+
+3) Modelagem de dados do seu sistema
+
+4) Criar o script do banco de dados do seu sistema
+
+5) Criar o banco de dados no local DB e depois criar a classe de acesso ao banco (DAL) e criar método para
+executar procedure no c# e listar as pizzas dentro da viewModel
+
+

@@ -1,0 +1,38 @@
+
+.first-section {
+    background-image: url("../img/PizzaAberturaNova.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 0px;
+    height: 600px;
+}
+
+    .first-section .conteudo-principal {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: auto;
+    }
+
+    .first-section h1 {
+        color: #0c0c0b;
+        font-size: 4rem;
+        text-transform: uppercase;
+        margin-bottom: 1rem;
+        font-weight: 600;
+    }
+
+    .first-section h2 {
+        color: black;
+        font-size: 3rem;
+        font-weight: 600;
+    }
+
+.btn_principal button:hover {
+    border: 1px solid #ff5106;
+    background-color: transparent;
+    color: #ff5106;
+}

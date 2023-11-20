@@ -1,0 +1,9 @@
+Para obter imagem  wwwroot criar pasta
+img colar a foto
+Ir para Startup e incluir
+app.UserStaticFiles
+-------------------------------------
+Para habilitar o MVC
+Em Startup services.AddMvc();
+app.app.UseMvcWithDefaultRoute();
+-------------------------------------

@@ -1,0 +1,29 @@
+﻿@model List<PizzariaPremiato.Models.PizzaModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/css/cardapio.css" rel="stylesheet" />
+<h1 id="id_titulo">Cárdapio</h1>
+
+<div class="row">
+
+    @foreach (var pizza in @Model)
+    {
+        <div class="fotoCardapio col-md-3">
+            <img src="@pizza.Foto" class="imgCardapio">
+
+            <p>
+                <label style="font-weight:bold">@pizza.Nome</label>
+                <br />
+                <small id="id_descricao_pizza">@pizza.Descricao</small>
+                <br />
+                <span>@string.Format("{0:C}", pizza.Valor)</span>
+            </p>
+
+        </div>}
+
+</div>
+
+
